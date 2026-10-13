@@ -137,3 +137,7 @@ The showcase streams from Gemini through LangGraph with a private server-side ke
 ## License
 
 MIT — see [LICENSE](./LICENSE).
+
+## Project links
+
+[Source](https://github.com/qentrah/qchat) · [Issues](https://github.com/qentrah/qchat/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
